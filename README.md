@@ -1,1 +1,2 @@
 # Zombie Shooter
+A game I programmed in C++ in my free time implementing strong Object Oriented Programming, ranging from concepts such as creating classes to represent different components of the game, to encapsulating classes so that changing function definitions would still allow the game to run without problem as the functions prototypes remain the same, only with changes in the definition. Also used singleton classes, static classes, and pointer knowledge for memory maintenance and dynamic memory allocation at times, ensuring that memory is not being wasted.
