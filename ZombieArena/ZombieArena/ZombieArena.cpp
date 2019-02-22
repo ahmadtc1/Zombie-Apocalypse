@@ -33,7 +33,7 @@ int main()
 
 	RenderWindow window(VideoMode(resolution.x, resolution.y),
 		"Zombie Arena", Style::Fullscreen);
-	
+
 
 	//Create an SFML biew for the main action
 	View mainView(sf::FloatRect(0, 0, resolution.x, resolution.y));
@@ -216,7 +216,7 @@ int main()
 					//Reset the clock so there isn't a frame jump
 					clock.restart();
 				}
-				
+
 				//Start a new game while in GAME_OVER state
 				else if (event.key.code == Keyboard::Return && state == State::GAME_OVER) {
 					state = State::LEVELING_UP;
@@ -346,7 +346,7 @@ int main()
 				ammoPickup.setArena(arena);
 
 				//Create a horde of zombies
-				numZombies = 10;
+				numZombies = 20;
 				//Delete the previously allocated memory (if it exists)
 				delete[] zombies;
 				zombies = createHorde(numZombies, arena);
@@ -590,7 +590,7 @@ int main()
 			window.draw(hiScoreText);
 		}
 		window.display();
-		
+
 
 	}//End Game Loop
 	//Delete the previously allocated memory (if it exists)

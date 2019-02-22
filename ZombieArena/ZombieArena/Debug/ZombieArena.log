@@ -1,22 +1,22 @@
 ﻿  ZombieArena.cpp
-c:\users\ahmad\documents\visual studio 2017\projects\zombiearena\zombiearena\zombiearena.cpp(31): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+c:\users\ahmad\documents\github\zombie-shooter\zombiearena\zombiearena\zombiearena.cpp(31): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-c:\users\ahmad\documents\visual studio 2017\projects\zombiearena\zombiearena\zombiearena.cpp(32): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+c:\users\ahmad\documents\github\zombie-shooter\zombiearena\zombiearena\zombiearena.cpp(32): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-c:\users\ahmad\documents\visual studio 2017\projects\zombiearena\zombiearena\zombiearena.cpp(34): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+c:\users\ahmad\documents\github\zombie-shooter\zombiearena\zombiearena\zombiearena.cpp(34): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
           with
           [
               T=float
           ]
-c:\users\ahmad\documents\visual studio 2017\projects\zombiearena\zombiearena\zombiearena.cpp(485): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+c:\users\ahmad\documents\github\zombie-shooter\zombiearena\zombiearena\zombiearena.cpp(485): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
           with
           [
               T=float
           ]
-  ZombieArena.vcxproj -> C:\Users\ahmad\Documents\Visual Studio 2017\Projects\ZombieArena\Debug\ZombieArena.exe
+  ZombieArena.vcxproj -> C:\Users\ahmad\Documents\GitHub\Zombie-Shooter\ZombieArena\Debug\ZombieArena.exe
