@@ -2,8 +2,8 @@
 This is a game I programmed in C++ in my free time, solidifying a variety of Object Oriented Programming fundamental concepts and implementing them into a real application. 
 
 ## Game HUD
-![Game View](GameView.jpg)
 ![Score View](ScoreView.jpg)
+![Game View](GameView.jpg)
 
 ## Technical Details
 
