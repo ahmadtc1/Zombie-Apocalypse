@@ -15,4 +15,4 @@ These concepts ranged from a wide diversity, including **classes to represent ga
 **Pointers** were implemented for memory maintenance and **dynamic memory allocation**. Memory was allocated when necessary for use and deleted when no longer necessary, ensuring optimal use of memory.
 
 ## Libraries
-The **SFML Library** was used for the game's development and its manny classes as well as class methods were used in the development process for a variety of areas, such as **graphics**, **audio**, and many more areas.
+The **SFML Library** was used for the game's development and its many classes as well as class methods were used in the development process for a variety of areas, such as **graphics**, **audio**, and many more areas.
