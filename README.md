@@ -2,8 +2,9 @@
 This is a game I programmed in C++ in my free time, solidifying a variety of Object Oriented Programming fundamental concepts and implementing them into a real application. 
 
 ## Game HUD
-![Score View](ScoreView.jpg)
-![Game View](GameView.jpg)
+![Enter Game](zApoc-enter.png)
+![PowerUps] (zApoc-powerup.png)
+![Game View](zApoc-game.png)
 
 ## Technical Details
 
