@@ -3,7 +3,7 @@ This is a game I programmed in C++ in my free time, solidifying a variety of Obj
 
 ## Game HUD
 ![Enter Game](zApoc-enter.png)
-![PowerUps] (zApoc-powerup.png)
+![PowerUps](zApoc-powerup.png)
 ![Game View](zApoc-game.png)
 
 ## Technical Details
